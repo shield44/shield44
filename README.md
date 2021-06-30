@@ -1,6 +1,6 @@
 <a href="https://sourceforge.net/projects/black-dev-projects/files/latest/download"><img alt="Download Ashwin ROM builds" src="https://img.shields.io/sourceforge/dt/ashwin-rom-builds.svg" ></a>
 
-<h1 align="center">👋 Heyyyy, I am Android 404</h1>
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, here is Android404 GitHub.</h2>
 
 - I’m currently working on Xiaomi Redmi 8A Dual Olivewood
 - How to reach me: Telegram @sdm439dev XDA name : sdm439 olivewood
