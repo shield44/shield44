@@ -11,7 +11,7 @@
 Follow my Telegram Channel [t.me/olivewood_updates](https://t.me/sdm439dev) for updates on my projects
 
 
-[![Android 404 Stats](https://github-readme-stats.vercel.app/api?username=shield44&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Android 404 Stats](https://github-readme-stats.vercel.app/api?username=shield44&theme=yellow)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shield44&theme=yellow)](https://github.com/anuraghazra/github-readme-stats)
 
