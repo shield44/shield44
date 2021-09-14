@@ -1,15 +1,10 @@
-<a href="https://sourceforge.net/projects/black-dev-projects/files/"><img alt="Download my ROM builds" src="https://img.shields.io/sourceforge/dt/black-dev-projects.svg" ></a>
-
-<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, here is shield44 GitHub.</h2>
+# Hi there 👋 this is shield44
 
 - I’m currently working on Xiaomi Redmi 8A Dual Olivewood
 - How to reach me: Telegram @shield44 XDA name : sdm439 olivewood
 - You can get my latest repos and trees for olivewood here
 - Devices I develop - Condor,olivewood,kd7
 - Too busy these days
-
-Follow my Telegram Channel [t.me/olivewood_updates](https://t.me/sdm439dev) for updates on my projects
-
 
 [![shield44 github stats](https://github-readme-stats.vercel.app/api?username=shield44&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/shield44)
 
