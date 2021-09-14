@@ -1,11 +1,5 @@
 # Hi there 👋 this is shield44
 
-- I’m currently working on Xiaomi Redmi 8A Dual Olivewood
-- How to reach me: Telegram @shield44 XDA name : sdm439 olivewood
-- You can get my latest repos and trees for olivewood here
-- Devices I develop - Condor,olivewood,kd7
-- Too busy these days
-
 [![shield44 github stats](https://github-readme-stats.vercel.app/api?username=shield44&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/shield44)
 
 ## What i know
